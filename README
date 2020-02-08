@@ -1,0 +1,19 @@
+
+--------------goal---------------
+Using the programming language C
+to build an Integer List ADT to 
+alphabetize the lines in a file
+in order to devolop a better 
+understanding of ADTs, C, and Unix.
+
+Files included-------------------------------------------------------------------------------------------
+List.h - List.h which defines the structure of the ADT later to be fleshed out by List.C
+List.c - List.c flushes out the list.h header and allows the files to be called by Lex.c
+ListClient.c provided on webpage, do not alter - Test file provided
+Lex.c - Method to sort and alphabetize a string array using the List ADT
+Makefile provided on webpage, alter as you see fit - Makefile to compile files in Lex
+README - Explaing this programming
+
+
+Note:
+I left comments and failed procedures to give an insight on my process and procedures.
